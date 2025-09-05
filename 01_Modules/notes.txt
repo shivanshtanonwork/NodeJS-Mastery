@@ -1,0 +1,10 @@
+# Modules ➖
+
+It is a collection of code which provides us functionality.
+
+3 types of modules : -
+
+1. Built in Modules :- NodeJS gives us out of the box — 
+a) File System(fs) Module — 
+2. 3rd Party(External Modules) - npm install
+3. Custom modules -  my own modules (internal modules)
